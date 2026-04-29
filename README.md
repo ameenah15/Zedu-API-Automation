@@ -20,3 +20,17 @@ It validates authentication and user management endpoints using **Python + Pytes
 
 
  Project Structure
+ Zedu-API-Automation/
+│
+├── tests/
+│   ├── test_auth.py
+│   ├── test_users.py
+│
+├── utils/
+│   └── auth.py
+│
+├── conftest.py
+├── README.md
+├── requirements.txt
+├── .env.example
+├── .gitignore
